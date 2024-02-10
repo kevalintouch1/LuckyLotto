@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme">
+    </style>
+    <style name="AppTheme">
+    </style>
+    <style name="AppTheme.AppBarOverlay">
+    </style>
+    <style name="AppTheme.PopupOverlay">
+    </style>
+    <style name="personal_collapsed_title">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="personal_expanded_title">
+        <item name="android:textSize">0sp</item>
+        <item name="android:textColor">#00ffffff</item>
+    </style>
+
+    <style name="AppTheme.MegaLotto" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorOnPrimary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/colorAccent</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorSecondary">@color/colorPrimary</item>
+        <item name="colorSecondaryVariant">@color/colorPrimaryDark</item>
+        <item name="android:windowBackground">@color/main_bg</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+    <style name="AppTheme.MegaLotto.NoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+    <style name="MyCustomThemeDark" parent="AppTheme.MegaLotto.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/main_bg</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+    </style>
+    <style name="MyCustomThemeLight" parent="AppTheme.MegaLotto.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/main_bg</item>
+    </style>
+    <style name="CustomProgressBarDetail" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:radius">50dp</item>
+        <item name="android:progressTint">#FFA412</item>
+        <item name="android:progressBackgroundTint">#ffffff</item>
+    </style>
+    <style name="CustomProgressBarMain" parent="Widget.AppCompat.ProgressBar.Horizontal">
+        <item name="android:radius">50dp</item>
+        <item name="android:progressTint">@color/colorAccent</item>
+        <item name="android:progressBackgroundTint">#40000000</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@android:color/white</item>
+    </style>
+
+    <color name="main_bg">#F5F5F5</color>
+    <color name="trans_main_bg">#83F5F5F5</color>
+</resources>

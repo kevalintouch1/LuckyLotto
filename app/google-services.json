@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "442465050747",
+    "project_id": "all-in-one-age-calculator",
+    "storage_bucket": "all-in-one-age-calculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442465050747:android:4f02158fe951abe90742de",
+        "android_client_info": {
+          "package_name": "com.age_calculator.calculatorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442465050747-2os69oklnjjleh0pksb7toibcanfm7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JyLHlxwnbdTjKTOUGC815_OoIl_gRUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442465050747-2os69oklnjjleh0pksb7toibcanfm7pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442465050747:android:8d3c92205361460c0742de",
+        "android_client_info": {
+          "package_name": "com.megalotto.megalotto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442465050747-2os69oklnjjleh0pksb7toibcanfm7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JyLHlxwnbdTjKTOUGC815_OoIl_gRUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442465050747-2os69oklnjjleh0pksb7toibcanfm7pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442465050747:android:aadc8fdf6d41051e0742de",
+        "android_client_info": {
+          "package_name": "com.watchplay.earnmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442465050747-2os69oklnjjleh0pksb7toibcanfm7pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5JyLHlxwnbdTjKTOUGC815_OoIl_gRUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442465050747-2os69oklnjjleh0pksb7toibcanfm7pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

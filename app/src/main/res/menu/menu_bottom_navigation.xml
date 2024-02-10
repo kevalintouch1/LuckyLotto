@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_seleted"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_ticket"
+        android:icon="@drawable/ic_ticket_unseleted"
+        android:title="My Tickets" />
+    <item
+        android:id="@+id/nav_result"
+        android:icon="@drawable/ic_result_unseleted"
+        android:title="Result" />
+</menu>

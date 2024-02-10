@@ -1,0 +1,5 @@
+Error decode img
+java.nio.file.NoSuchFileException: C:\Users\HP\Downloads\megalotto_v5.apk
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(Unknown Source)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(Unknown Source)
+
